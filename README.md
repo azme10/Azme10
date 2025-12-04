@@ -190,8 +190,6 @@
 
 *Open to opportunities in Embedded Systems, IoT, and Generative AI*
 
----
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=Azme10&icon=2&color=6)
+--
 
 </div>
